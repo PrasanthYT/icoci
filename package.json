@@ -1,0 +1,26 @@
+{
+  "name": "icoci",
+  "version": "1.0.2",
+  "description": "icoci is a versatile npm package (or Node.js library / React component) designed to provide a collection of high-quality icons for use in web development projects. With a focus on simplicity and customization, it offers a wide range of icons that can be seamlessly integrated into various applications and websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasanthYT/icoci.git"
+  },
+  "keywords": [
+    "icons",
+    "js",
+    "react",
+    "node",
+    "UI"
+  ],
+  "author": "Prasanth",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PrasanthYT/icoci/issues"
+  },
+  "homepage": "https://github.com/PrasanthYT/icoci#readme"
+}
