@@ -1,7 +1,7 @@
 # icoci
 
 [![npm version](https://badge.fury.io/js/icoci.svg)](https://www.npmjs.com/package/icoci)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PrasanthYT/icoci/blob/main/LICENSE)
 
 ## Description
 
